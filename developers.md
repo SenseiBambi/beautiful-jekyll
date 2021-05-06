@@ -3,6 +3,10 @@
   
   img {
     border-radius: 50%;
+    margin-top: 20px;
+    margin-right: 30px;
+    margin-left: 10px;
+    margin-bottom: 25px;
   }
   
   div.item {
