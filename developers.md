@@ -3,10 +3,6 @@
   
   img {
     border-radius: 50%;
-    margin-top: 20px;
-    margin-right: 70px;
-    margin-left: 10px;
-    margin-bottom: 25px;
   }
   
   div.item {
@@ -14,6 +10,10 @@
     display: inline-block;
     text-align: center;
     width: 150px;
+    margin-top: 20px;
+    margin-right: 70px;
+    margin-left: 10px;
+    margin-bottom: 25px;
   }
   
   .caption {
