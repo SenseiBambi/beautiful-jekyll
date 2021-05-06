@@ -10,7 +10,7 @@
   
 <h2>Developers</h2>
 
-<img src="" alt="SenseiBambi" style="width:200px">
+<img src="/assets/img/SenseiBambi.jpg" alt="SenseiBambi" style="width:200px">
 
 </body>
 </html>
