@@ -4,7 +4,7 @@
   img {
     border-radius: 50%;
     margin-top: 20px;
-    margin-right: 30px;
+    margin-right: 70px;
     margin-left: 10px;
     margin-bottom: 25px;
   }
