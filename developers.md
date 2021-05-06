@@ -7,7 +7,11 @@
     display: inline-block;
     text-align: center;
     width: 150px;
-    border-radius: 50%
+  }
+  
+  img {
+    border-radius: 50%:
+  }
   
   .caption {
     display: inline;
