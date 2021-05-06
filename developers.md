@@ -27,5 +27,11 @@
   <span class="caption">SenseiBambi</span>
   <span class="cpation">Lead Developer</span>
 </div>
+
+<div class="item">
+  <img src="avatar-icon.png">
+  <span class="caption">Testing</span>
+  <span class="caption">Testing</span>
+</div>
   
 </body>
