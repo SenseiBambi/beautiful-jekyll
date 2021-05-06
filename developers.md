@@ -14,7 +14,7 @@
 <figure>
   
   <img src="/assets/img/SenseiBambi.jpg" alt="SenseiBambi" style="width:150px">
-  <figcaption>
+  <figcaption style="right:15px">
     SenseiBambi <br>
     Lead Programmer and Developer
   </figcaption>
