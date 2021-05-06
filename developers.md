@@ -3,7 +3,6 @@
   
   img {
     border-radius: 50%;
-    padding: 10px;
   }
   
   div.item {
