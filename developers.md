@@ -1,14 +1,32 @@
 <html>
 <head>
 <style>
+  
+  div.item {
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    width: 150px;
+  
   img {
     border-radius: 50%;
   }
+  
+  .caption {
+    display: block;
+   }
+   
 </style>
 </head>
   
 <h2><center>Developers</center></h2>
 
-<img src="/assets/img/SenseiBambi.jpg" alt="SenseiBambi" style="width:150px"><p>SenseiBambi <br> Lead Programmer and Developer</p>
+<div class="item">
+  <img src="/assets/img/SenseiBambi.jpg" alt="SenseiBambi" style="width:150px">
+  <span class="caption">
+    SenseiBambi <br>
+    Lead Programmer and Developer
+  </span>
+</div>
 
 </html>
