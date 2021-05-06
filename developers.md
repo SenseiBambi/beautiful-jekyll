@@ -10,7 +10,7 @@
     border-radius: 50%
   
   .caption {
-    display: block;
+    display: inline;
    }
    
 </style>
