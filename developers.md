@@ -7,10 +7,7 @@
     display: inline-block;
     text-align: center;
     width: 150px;
-  
-  img {
-    border-radius: 50%;
-  }
+    border-radius: 50%
   
   .caption {
     display: block;
