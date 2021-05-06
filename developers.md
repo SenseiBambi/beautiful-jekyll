@@ -4,7 +4,7 @@
   
   div.item {
     vertical-align: top;
-    display: block;
+    display: inline-block;
     text-align: center;
     width: 150px;
     border-radius: 50%
