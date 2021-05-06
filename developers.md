@@ -19,7 +19,7 @@
 <h2><center>Developers</center></h2>
 
 <div class="item">
-  <img src="/assets/img/SenseiBambi.jpg" alt="SenseiBambi" style="width:150px">
+  <img src="/assets/img/SenseiBambi.jpg" alt="SenseiBambi">
   <span class="caption">
     SenseiBambi <br>
     Lead Programmer and Developer
