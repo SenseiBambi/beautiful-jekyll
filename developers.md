@@ -29,7 +29,7 @@
 </div>
 
 <div class="item">
-  <img src="avatar-icon.png">
+  <img src="/assets/img/avatar-icon.png">
   <span class="caption">Testing</span>
   <span class="caption">Testing</span>
 </div>
