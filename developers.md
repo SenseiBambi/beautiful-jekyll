@@ -11,5 +11,4 @@
 
 <img src="/assets/img/SenseiBambi.jpg" alt="SenseiBambi" style="width:100px">
 
-</body>
 </html>
